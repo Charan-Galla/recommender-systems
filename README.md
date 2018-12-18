@@ -1,5 +1,5 @@
 <h1>CS F469 - Information Retrieval</h1>
-<b>Assignment – 2: Recommender Systems</b>
+<p><b>Assignment – 2: Recommender Systems</b></p>
 <b>Language:	Python 3.5</b>
 
 <h2>Contributors:</h2>
